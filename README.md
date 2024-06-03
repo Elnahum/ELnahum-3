@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eliseo Nahum</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1352F7&center=true&vCenter=true&random=false&width=435&lines=Eliseo+Nahum+Rangel+Moreno;Jr.+Proggramer+;Machine+Learning+%26+game+developer" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1352F7&center=true&vCenter=true&random=false&width=435&lines=Eliseo+Nahum+Rangel+Moreno;Jr.+Proggramer+;Machine+Learning+%26+game+developer;always+try+to+be+better+" alt="Typing SVG" /></a>
 <h3 align="center">A passionate jr programmer who wanst to learn everithing than i can about developping games and machine learning.</h3>
 
 - 🔭 I’m currently working on **Galaxy shooter**
